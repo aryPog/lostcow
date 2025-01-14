@@ -1,5 +1,11 @@
 # lostcow
 
-### Description
-It's a 'maze' generator on witch you have to follow the direction of 4 arrows shown at the start. 
-The map is procedurely generated, and changes after each scene, same with the arrows ion the ground.
+### "Maze generator" wanna'be. 
+At the start, the game gives you 4 or 5 directions to follow (in the form of arrows).
+There are about 10-11 diferent maps, that are randomly picked. Ex:
+- map01 -> have all the four directions unlocked.
+- map02 -> have just the top and bottom unlocked.
+  
+And so on. The goal is to follow the directions given at the start, but after 5-6 misses (wrong diretion - acumulative)
+the arrows are shown to the player again. That's it.
+
